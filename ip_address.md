@@ -6,11 +6,11 @@ To see all IP addresses of a Linux machine, we can run a command like this:
 ``
 ip -c address
 ```
-### To install curl on Ubuntu / Debian systems, or anything derived from this family (that uses .deb software packages), we can run:
+To install curl on Ubuntu / Debian systems, or anything derived from this family (that uses .deb software packages), we can run:
 ```
 sudo apt install curl
 ```
-### Then to get the public IP address of a Linux machine, we can run any of these commands:
+Then to get the public IP address of a Linux machine, we can run any of these commands:
 ```
 curl icanhazip.com
 curl checkip.amazonaws.com
